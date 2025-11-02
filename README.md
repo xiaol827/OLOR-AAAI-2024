@@ -32,6 +32,7 @@ python -m torch.distributed.launch --nproc_per_node=1 \
 --warmup_epochs 0 \
 --val_fold 0
 ```
+ 
 
 ## Quik test
 
